@@ -1,4 +1,4 @@
-# MVP: Análise de Dados e Boas Práticas
+# MVP: Representatividade Feminina no Cinema
 
 Trabalho realizado para a sprint de Análise de Dados e Boas Práticas do curso de pós-graduação em Ciência de Dados & Analytics da PUC-Rio.
 
