@@ -2,6 +2,8 @@
 
 Trabalho realizado para a sprint de Análise de Dados e Boas Práticas do curso de pós-graduação em Ciência de Dados & Analytics da PUC-Rio.
 
+Você pode conferir o notebook [clicando aqui](https://github.com/lauragonzaga/MVP-Representatividade-Feminina-no-Cinema/blob/main/MVP_Representatividade_Feminina_no_Cinema.ipynb).
+
 ## Descrição do projeto
 
 Este projeto investiga desigualdades de gênero na indústria cinematográfica, com foco na presença de mulheres em cargos-chave como direção, roteiro e protagonismo. A análise busca entender se há diferenças de representatividade nesses papéis e como isso se relaciona com indicadores de bilheteria e avaliação no IMDb.
